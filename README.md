@@ -4,14 +4,14 @@
 
 ## 🏆 About Me
 
-- 💻 Full-stack Developer | React.js | Node.js | Django
-- 🎨 Building immersive web & XR experiences
-- 📦 Creating smooth APIs & efficient backend systems
-- 🚀 Passionate about 3D, AR/VR, and cool tech!
+- 💻 Full-stack Developer | React.js | Next.js | Node.js 
+- 🎨 Building responsive and intuitive web apps
+- 📦 Creating scalable frontend architecture
+- 🚀 Passionate about autonomous drones, AR in web, and cool tech!
 
 ## 🔥 Skills & Tech Stack
 
-🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Three.js<br>
+🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Three.js , Tasnstack query , zustand and many more<br>
 ⚙️ **Backend:** Node.js, Express, MongoDB , supabase , firebase<br>
 📦 **Tools & DevOps:** Docker, Git, CI/CD, Firebase<br>
 📱 **Other:** TypeScript, WebSockets, FormData
@@ -26,12 +26,14 @@
 
 ## 🎯 What I'm Working On
 
-🔧 Enhancing user management for XR Horizon<br>
-🔍 Adding multi-texture support to the 3D model viewer<br>
-📊 Building cool analytics dashboards
+🛠️ **Enhancing user management** for **PBD** – Making admin control smooth & efficient!<br>
+🛡️ **Exploring WebAuthn** – Bringing futuristic biometric authentication to the web (How cool is that? 😎)<br>
+💬 **Building a social chat app** – Because conversations should be seamless & fun! 📲<br>
+⏳ **Developing a queue management app** – Say goodbye to long waits! 🚀<br>
+🏦 **Creating a customer-facing fintech app** – Building cutting-edge financial solutions for my organization 💰💡<br>
 
 ## 📫 Let's Connect!
 
-💼 [Portfolio](https://yourwebsite.com) | 🐦 [Twitter](https://twitter.com/yourhandle) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+ 🐦 [Twitter](https://twitter.com/itsanishmv) | 🔗 [LinkedIn](https://linkedin.com/in/anish-mv)
 
 💌 Drop me a message—let's build something awesome together!
