@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-🌟 **[XR Horizon](https://github.com/yourproject)** - 3D Model Sharing & AR Platform
+🌟 **[AR 3D model sharing platform (pivate repo)](https://github.com/yourproject)** - 3D Model Sharing & AR Platform
 
 🌟 **[React Admin Dashboard](https://github.com/yourproject)** - Custom User Management System
 
