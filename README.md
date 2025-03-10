@@ -32,6 +32,12 @@
 ⏳ **Developing a queue management app** – Say goodbye to long waits! 🚀<br>
 🏦 **Creating a customer-facing fintech app** – Building cutting-edge financial solutions for my organization 💰💡<br>
 
+## 📢 I Tweet My Tech Journey!
+
+🚀 I share my latest **findings, learnings, and cool hacks** in **software engineering**. I keep it fun (well i'm trying to 🧔 ) & insightful! 🎯💡
+
+Follow me on Twitter for daily updates! 🐦✨
+
 ## 📫 Let's Connect!
 
  🐦 [Twitter](https://twitter.com/itsanishmv) | 🔗 [LinkedIn](https://linkedin.com/in/anish-mv)
