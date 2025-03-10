@@ -1,7 +1,6 @@
 # 🚀 Hey there, I'm Anish! 
 
 > "Code, Coffee, and Creativity ☕💡"
-
 ## 🏆 About Me
 
 - 💻 Full-stack Developer | React.js | Next.js | Node.js 
