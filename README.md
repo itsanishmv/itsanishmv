@@ -3,7 +3,7 @@
 > "Code, Coffee, and Creativity ☕💡"
 ## 🏆 About Me
 
-- 💻 Full-stack Developer | React.js | Next.js | Node.js 
+- 💻 Full-stack Developer | React.js | Next.js | Node.js | express
 - 🎨 Building responsive and intuitive web apps
 - 📦 Creating scalable frontend architecture
 - 🚀 Passionate about autonomous drones, AR in web, and cool tech!
