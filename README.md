@@ -19,13 +19,6 @@ https://medium.com/@anish_29001
 📦 **Tools & DevOps:** Docker, Git, CI/CD, Firebase<br>
 📱 **Other:** TypeScript, WebSockets, FormData
 
-## 📌 Featured Projects
-
-🌟 **[AR 3D model sharing platform (pivate repo)](https://github.com/yourproject)** - 3D Model Sharing & AR Platform
-
-🌟 **[React Admin Dashboard](https://github.com/yourproject)** - Custom User Management System
-
-🌟 **[3D Model Viewer](https://github.com/yourproject)** - Interactive model previewer with texture uploads
 
 ## 🎯 What I'm Working On
 
