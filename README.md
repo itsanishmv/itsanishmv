@@ -7,7 +7,11 @@
 - 🎨 Building responsive and intuitive web apps
 - 📦 Creating scalable frontend architecture
 - 🚀 Passionate about autonomous drones, AR in web, and cool tech!
+## ✉️ Blogs
 
+![giphy](https://github.com/user-attachments/assets/8cc0cee9-a2c8-421a-b198-cf0d0acfb014)
+
+https://medium.com/@anish_29001
 ## 🔥 Skills & Tech Stack
 
 🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Three.js , Tasnstack query , zustand and many more<br>
