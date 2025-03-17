@@ -39,3 +39,4 @@ Follow me on Twitter for daily updates! 🐦✨
  🐦 [Twitter](https://twitter.com/itsanishmv) | 🔗 [LinkedIn](https://linkedin.com/in/anish-mv)
 
 💌 Drop me a message—let's build something awesome together!
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/itsanishmv)
