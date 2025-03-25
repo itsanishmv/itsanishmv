@@ -14,7 +14,7 @@
 https://medium.com/@anish_29001
 ## 🔥 Skills & Tech Stack
 
-🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Three.js , Tasnstack query , zustand and many more<br>
+🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, R3F , Tasnstack query , zustand and many more<br>
 ⚙️ **Backend:** Node.js, Express, MongoDB , supabase , firebase<br>
 📦 **Tools & DevOps:** Docker, Git, CI/CD, Firebase<br>
 📱 **Other:** TypeScript, WebSockets, FormData
@@ -23,6 +23,7 @@ https://medium.com/@anish_29001
 ## 🎯 What I'm Working On
 
 🛡️ **Exploring WebAuthn** – Bringing biometric authentication to the web (How cool is that? 😎)<br>
+🛡️ **Exploring R3F** – 3D in web <br>  
 💬 **Building a social chat app** – Because conversations should be seamless & fun! 📲<br>
 ⏳ **Developing a queue management app** – Say goodbye to long waits! 🚀<br>
 🏦 **Creating a customer-facing fintech app** – Building cutting-edge financial solutions for my organization 💰💡<br>
