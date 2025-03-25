@@ -22,8 +22,7 @@ https://medium.com/@anish_29001
 
 ## 🎯 What I'm Working On
 
-🛠️ **Enhancing user management** for **PBD** – Making admin control smooth & efficient!<br>
-🛡️ **Exploring WebAuthn** – Bringing futuristic biometric authentication to the web (How cool is that? 😎)<br>
+🛡️ **Exploring WebAuthn** – Bringing biometric authentication to the web (How cool is that? 😎)<br>
 💬 **Building a social chat app** – Because conversations should be seamless & fun! 📲<br>
 ⏳ **Developing a queue management app** – Say goodbye to long waits! 🚀<br>
 🏦 **Creating a customer-facing fintech app** – Building cutting-edge financial solutions for my organization 💰💡<br>
